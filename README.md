@@ -10,8 +10,8 @@
       - `todoWorkDoneContainer.jsx`
   - [`hooks`](./src/hooks/)
     - `useInput.js`
-  - `layout`
-    - [`header`](./src/layout/header/)
+  - [`layout`](./src/layout/)
+    - `header`
       - `index.jsx`
     - `index.jsx`
   - `pages`
